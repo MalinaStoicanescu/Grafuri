@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558468767 source:c:\users\mali\desktop\dfs\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
